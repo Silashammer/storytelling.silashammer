@@ -1,0 +1,21 @@
+/*
+ * Theme Name: neve-child-theme
+ * Template: neve
+ * Text Domain: neve-child-theme
+ */
+
+
+
+body
+{
+ background-color: black;
+ }
+
+#visual 
+{
+  color: pink;
+}
+
+.visual_content {
+font-size: 1.6em;
+}
